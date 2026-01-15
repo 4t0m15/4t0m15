@@ -1,2 +1,1 @@
 Hey, check out my Projects!!
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
